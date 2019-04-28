@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
     overflow: visible;
+    background-image: url("../Images/full-bloom.png");
 }
 
 header {
